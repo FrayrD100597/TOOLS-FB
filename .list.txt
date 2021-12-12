@@ -1,7 +1,5 @@
 1-0-0-0-a-7-m-4-d-1-t ID Xom
-1-1-3-0-8-u-0-_-a-1-3-0-8 ID SaRoK
-1-0-3-5-3-u-0-_-a-3-5-3 Hama 5 Rozh Shat 8:45 PM
-1-0-1-4-6-u-0-_-a-1-4-6 KAMAN 1 rozh shat 9:39 AM
-1-0-1-9-1-u-0-_-a-1-9-1 @seyamandpasha bo 1 rozh shat 11:40 AM
+1-0-3-5-3-u-0-_-a-3-5-3 Hama 4 Rozh Shat 8:45 PM
+1-0-1-4-6-u-0-_-a-1-4-6 KAMAN 0 rozh shat 9:39 AM
+1-0-1-9-1-u-0-_-a-1-9-1 @seyamandpasha bo 0 rozh shat 11:40 AM
 1-0-2-4-6-u-0-_-a-2-4-6 ID BRUSK BRADARAM
-0-r-o-o-t
